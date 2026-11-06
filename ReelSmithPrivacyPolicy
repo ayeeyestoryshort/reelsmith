@@ -1,0 +1,57 @@
+ReelSmith Privacy Policy
+Effective Nov 4, 2026
+ReelSmith keeps your data on your own computer. It has no servers or user accounts of its own, collects no analytics, and never sells or shares your data with advertisers.
+1. About this policy
+This policy explains what information ReelSmith, a desktop application for creating and posting short videos, handles when you use it, including when you connect your TikTok account. It applies to the ReelSmith app and its optional phone companion. Each platform and service you connect has its own privacy policy, which applies to the data they hold.
+2. Information ReelSmith collects
+From TikTok, when you connect your account, ReelSmith requests only these permissions:
+• Basic profile (user.info.basic): your TikTok user ID, display name and profile picture, used to show which account you're posting to.
+• Posting (video.publish, video.upload): lets ReelSmith upload a video to your account when you press Post. With it, ReelSmith receives your account's posting options (such as allowed privacy settings and maximum video length) and the status of each post.
+• Access tokens that TikTok issues so ReelSmith can act for you. ReelSmith never sees your TikTok password.
+That you create or enter in ReelSmith:
+• Topics, scripts, captions, hashtags, narration audio, images and finished videos.
+• Voice recordings, if you record narration yourself.
+• Settings, and the API keys you enter for the services ReelSmith uses.
+ReelSmith does not collect your location, contacts, browsing history, or usage analytics, and it does not use cookies or trackers.
+3. How it's used and where it goes
+ReelSmith uses your information only to make the videos you ask for and post them where you choose. It is stored on your computer: access tokens and API keys in your operating system's secure credential store (such as Windows Credential Manager), and everything else in ReelSmith's folder on your computer.
+Data leaves your computer only when a feature you use needs a service:
+Service
+What it receives
+When
+TikTok
+Your video, caption and posting settings
+When you connect TikTok or press Post
+YouTube (Google)
+Your video, title and description
+When you connect YouTube or post to it
+Facebook (Meta)
+Your video and caption
+When you post to your Facebook Page
+Anthropic
+Your video topic or story idea
+When ReelSmith writes a script
+ElevenLabs
+The narration text
+When ReelSmith records narration
+fal.ai or OpenAI
+Image descriptions and character portraits
+When ReelSmith makes images
+Openverse and Wikimedia Commons
+Your image search words
+When you search for free stock images
+ReelSmith's optional phone companion connects only to your own computer over your home network, using an encrypted connection.
+4. Sharing
+ReelSmith does not sell, rent or trade your information, and does not share it for advertising. Beyond the services in section 3, information is disclosed only if required by law.
+5. Keeping and deleting your data
+• TikTok data is kept only while your account is connected. Disconnecting TikTok in ReelSmith's settings deletes its tokens from your computer; you can also revoke access in TikTok under Settings and privacy → Security and permissions → Apps and services permissions.
+• Videos and files stay until you delete them. Deleting a video in ReelSmith deletes its files; uninstalling ReelSmith and deleting its folder removes everything.
+• Data held by connected services (such as posted videos) is governed by their policies and can be deleted there.
+6. Security
+Tokens and keys are kept in your operating system's secure credential store and are never written to logs or error messages. Connections to the services above use HTTPS. No method of storage or transmission is perfectly secure, so keep your computer and accounts protected.
+7. Children
+ReelSmith is not intended for anyone under 18 and does not knowingly collect information from children.
+8. Your choices and rights
+Because your data is on your own computer, you can see, change, export or delete it at any time. Depending on where you live, you may have additional rights to access or delete personal information; contact us to use them.
+9. Changes and contact
+This policy may be updated; the effective date at the top shows the latest version. Questions or requests: AyeEyeStoryShort@gmail.com (Kentucky, United States).
